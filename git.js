@@ -25,3 +25,9 @@ git push origin [master or branch name]
 
 // pull from repo (make sure you are in correct directory)
 git pull origin [branch name]
+
+// show untracked / modified / deleted files
+git status
+
+// show last commits
+git log
